@@ -1,10 +1,13 @@
 import "./scss/App.scss";
 
+// local components:
+import BaseLayout from "./components/BaseLayout";
+
 function App() {
   return (
-    <>
-      <h1>Solid Hello World!</h1>
-    </>
+    <BaseLayout>
+      <h1>Notes Tree</h1>
+    </BaseLayout>
   );
 }
 

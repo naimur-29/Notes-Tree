@@ -1,2 +1,3 @@
-# Simply-Notes
+# Note-Tree
+
 Testing out solid.js
